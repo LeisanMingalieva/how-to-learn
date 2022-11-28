@@ -106,7 +106,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin: 0; 
+  margin: 0;
   padding: 0 0 30px 0;
 }
 
@@ -152,7 +152,7 @@
 
 .table__cell {
   list-style: none;
-  width: 250px;   
+  width: 250px;
   margin-right: 0;
 }
 
@@ -180,7 +180,7 @@
   background-image: url(../images/feynman.png);
   background-repeat: no-repeat;
   background-size: 867px 637px;
-  background-position: left bottom;  
+  background-position: left bottom;
   position: relative;
 }
 
@@ -282,7 +282,7 @@ margin: 80px auto 0;
 .footer__author {
   line-height: 25px;
   font-size: 18px;
-  font-weight: normal; 
+  font-weight: normal;
   color: white;
   padding: 18px 0;
 }
