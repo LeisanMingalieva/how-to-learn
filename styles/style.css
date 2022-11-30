@@ -76,9 +76,9 @@
 }
 
 .logo_place_header {
- position: absolute;
- top:30px;
- left:64px;
+  position: absolute;
+  top:30px;
+  left:64px;
 }
 
 .two-columns { 
@@ -230,22 +230,25 @@
 }
 
 .table_theme_dark {
-margin: 80px auto 0;
+  margin: 0 auto 0;
 }
 
 .section-title_theme_dark {
   color: white;
+  position: relative;
   z-index: 1;
 }
 
 .section-subtitle_theme_dark {
   color: white;
+  position: relative;
   z-index: 1;
 }
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
+  margin-top: 80px;
   z-index: 1;
 }
 
@@ -259,6 +262,7 @@ margin: 80px auto 0;
 
 .kaufman__triangle { 
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
   width: 877px;
   height: 877px;
   position: absolute;
